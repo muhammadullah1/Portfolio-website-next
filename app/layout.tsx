@@ -11,10 +11,10 @@ const monserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: 'Your Name',
+  title: 'muhammadullah',
   description:
     'Hi, I\'m "Your Name" and I love to build simple and beautiful things!',
-  creator: 'Your Name',
+  creator: 'Muhammad Ullah',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: '#f8f8f8' },
     { media: '(prefers-color-scheme: dark)', color: '#212529' },
